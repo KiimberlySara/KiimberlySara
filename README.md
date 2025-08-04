@@ -3,7 +3,7 @@
 -->
 
 <p align="center">
-    <img width="15%" height="15%" src="https://avatars.githubusercontent.com/u/224652853?v=4" alt="Banner" />
+    <img width="15%" height="15%" src="[https://avatars.githubusercontent.com/u/224652853?v=4](https://media.licdn.com/dms/image/v2/D4D03AQFd4ZaOC6a8fA/profile-displayphoto-shrink_200_200/B4DZOC6BdZHMAY-/0/1733068070008?e=1756944000&v=beta&t=jBktLsT49mXcV-Hx5IHSendz7EAv4KmMPDEs-mOZEIw)" alt="Banner" />
 </p>
 
 <h1 align="center">Olá, eu sou <span style="color: #6C63FF">Kimberly Sara</span> 👩🏻‍💻🎨</h1>
