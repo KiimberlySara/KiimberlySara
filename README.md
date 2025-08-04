@@ -3,7 +3,7 @@
 -->
 
 <p align="center">
-    <img src="https://avatars.githubusercontent.com/u/224652853?v=4" alt="Banner" />
+    <img width="15%" height="15%" src="https://avatars.githubusercontent.com/u/224652853?v=4" alt="Banner" />
 </p>
 
 <h1 align="center">Olá, eu sou <span style="color: #6C63FF">Kimberly Sara</span> 👩🏻‍💻🎨</h1>
