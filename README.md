@@ -44,9 +44,9 @@
 <details>
   <summary><strong>Design & Multimídia</strong></summary>
 
-  - Figma, Adobe Photoshop, Illustrator, After Effects
-  - Blender, Cinema 4D, Autodesk Maya, Canva
-  - Prototipagem: InVision, Marvel App
+  - CorelDraw, Adobe Photoshop, Illustrator, After Effects
+  - OBS Studio, CapCut, Canva
+  - Audio Visual: desenho, design, animação
 
 </details>
 
