@@ -73,5 +73,5 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KiimberlySara&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=KiimberlySara&color=blue" alt="Visitas ao perfil" />
 </p>
