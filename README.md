@@ -69,7 +69,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KiimberlySara&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiimberlySara&layout=Compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiimberlySara&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
