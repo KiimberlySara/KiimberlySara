@@ -46,7 +46,7 @@
 
   - CorelDraw, Adobe Photoshop, Illustrator, After Effects
   - OBS Studio, CapCut, Canva
-  - Audio Visual: desenho, design, animação
+  - Audio Visual: Desenho, Design, Animação, Edições
 
 </details>
 
